@@ -10,7 +10,7 @@ TOOLS:
   - Pandas
   - Seaborn
   - Matplotlib
-- SQLite(SQL Queries)
+- SQLite3(SQL Queries)
 - GitHub(Version Control)
 
 DATASET:
