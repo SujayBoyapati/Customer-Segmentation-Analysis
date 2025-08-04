@@ -60,6 +60,7 @@ Data was loaded into a SQLite database using the sqlite3 module in VS Code for a
 - Count of customers in each age/income/spending bracket
 
 DATA ANALYSIS(EDA)
+
 Implemented Exploratory Data Analysis using Seaborn and Matplotlib to perform visualize behaviors and relationships between groups
 Histograms & Box Plots
 - Distribution of Age
