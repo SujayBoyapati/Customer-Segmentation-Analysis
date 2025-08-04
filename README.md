@@ -28,6 +28,7 @@ Removed duplicates and null values (if any)
 Converted Gender to numeric:
 - 0 = Male
 - 1 = Female
+
 Verified correct data types for each column
 
 
