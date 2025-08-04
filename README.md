@@ -1,7 +1,7 @@
 # Customer-Segmentation-Analysis
 
 OBJECTIVE: 
-Segmentation of mall customers into distinct groups based on Age, Annual Income, and Spending Score using rule-based logic to stimulate business logic and descision-making rather than clustering algorithms.
+Segmentation of mall customers into distinct groups based on Age, Annual Income, and Spending Score using rule-based logic to stimulate      business logic and descision-making rather than clustering algorithms.
 
 TOOLS:
 - VS CODE
@@ -34,6 +34,7 @@ Verified correct data types for each column
 
 SEGMENTATION:
 Customers are segmented into groups based on business-defined logic:
+
 ➤ Age Groups
 - 18–30 → Youth
 - 31–45 → Middle-Aged
