@@ -14,7 +14,7 @@ TOOLS:
 - GitHub(Version Control)
 
 DATASET:
-File: Mall_Customers.csv
+File: Mall_Customers.csv(KAGGLE)
 Columns: 
 - CustomerID: Unique ID for each customer
 - Gender: Male / Female
